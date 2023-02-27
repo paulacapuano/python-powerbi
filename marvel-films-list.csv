@@ -1,0 +1,31 @@
+﻿Film;Release-Date;Director;Budget;Box-office;Phase;Public-Rating;Critics-Rating
+Iron Man;02-May-08;Jon Favreau;$140,000,000.00;$585,800,000.00;One;7.9;9.4
+The Incredible Hulk;13-Jun-08;Louis Leterrier;$150,000,000.00;$264,800,000.00;One;6.6;6.7
+Iron Man 2;07-May-10;Jon Favreau;$200,000,000.00;$623,900,000.00;One;6.9;7.1
+Thor;06-May-11;Kenneth Branagh;$150,000,000.00;$449,300,000.00;One;7.0;7.7
+Captain America: The First Avenger;22-Jul-11;Joe Johnston;$140,000,000.00;$370,600,000.00;One;6.9;8.0
+The Avengers;04-May-12;Joss Whedon;$225,000,000.00;$1,519,000,000.00;One;8.0;9.1
+Iron Man 3;03-May-13;Shane Black;$200,000,000.00;$1,215,000,000.00;Two;7.1;7.3
+Thor: The Dark World;08-Nov-13;Alan Taylor;$170,000,000.00;$644,800,000.00;Two;6.8;6.6
+Captain America: The Winter Soldier;04-Apr-14;Russo Brothers;$177,000,000.00;$714,400,000.00;Two;7.8;9.0
+Guardians of the Galaxy;01-Aug-14;James Gunn;$232,300,000.00;$773,300,000.00;Two;8.0;9.2
+Avengers: Age of Ultron;01-May-15;Joss Whedon;$365,000,000.00;$1,403,000,000.00;Two;7.3;7.6
+Ant-Man;17-Jul-15;Peyton Reed;$169,300,000.00;$519,300,000.00;Two;7.3;8.3
+Captain America: Civil War;06-May-16;Russo Brothers;$250,000,000.00;$1,153,000,000.00;Three;7.8;9.0
+Doctor Strange;04-Nov-16;Scott Derrickson;$236,600,000.00;$677,800,000.00;Three;7.5;8.9
+Guardians of the Galaxy Vol 2;05-May-17;James Gunn;$200,000,000.00;$863,300,000.00;Three;7.6;8.5
+Spider-Man: Homecoming;07-Jul-17;Jon Watts;$175,000,000.00;$880,200,000.00;Three;7.4;9.2
+Thor: Ragnarok;03-Nov-17;Taika Waititi;$180,000,000.00;$854,000,000.00;Three;7.9;9.3
+Black Panther;16-Feb-18;Ryan Coogler;$200,000,000.00;$1,382,000,000.00;Three;7.3;9.6
+Avengers: Infinity War;27-Apr-18;Russo Brothers;$400,000,000.00;$2,050,000,000.00;Three;8.4;8.5
+Ant-Man and the Wasp;06-Jul-18;Peyton Reed;$195,000,000.00;$622,700,000.00;Three;7.0;8.7
+Captain Marvel;08-Mar-19;Anna Boden & Ryan Fleck;$175,000,000.00;$1,131,000,000.00;Three;6.8;7.9
+Avengers: Endgame;26-Apr-19;Russo Brothers;$400,000,000.00;$2,799,000,000.00;Three;8.4;9.4
+Spider-Man: Far From Home;02-Jul-19;Jon Watts;$160,000,000.00;$1,132,000,000.00;Three;7.4;9.0
+Black Widow;09-Jul-21;Cate Shortland;$200,000,000.00;$379,800,000.00;Four;6.7;7.9
+Shang-Chi and the Legend of the Ten Rings;03-Sep-21;Destin Daniel Cretton;$200,000,000.00;$432,200,000.00;Four;7.4;9.1
+Eternals;05-Nov-21;Chloé Zhao;$200,000,000.00;$402,100,000.00;Four;6.3;4.7
+Spider-Man: No Way Home;17-Dec-21;Jon Watts;$200,000,000.00;$1,922,000,000.00;Four;8.2;9.3
+Doctor Strange in the Multiverse of Madness;06-May-22;Sam Raimi;$200,000,000.00;$955,800,000.00;Four;6.9;7.4
+Thor: Love and Thunder;08-Jul-22;Taika Waititi;$250,000,000.00;$761,000,000.00;Four;6.3;6.3
+Black Panther: Wakanda Forever;11-Nov-22;Ryan Coogler;$250,000,000.00;$858,100,000.00;Four;6.8;8.4
